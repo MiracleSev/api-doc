@@ -6,12 +6,14 @@ gitbook:基于 Markdown 编写的接口文档；文档中列出几个案例供�
 ### 1. 克隆源代码
     > git clone https://github.com/MiracleSev/api-doc.git
 ### 2. 配置本地运行环境
-1). 安装npm
-从[官网](https://nodejs.org/en/download/)下载源码，解压，执行如下命令安装：
+1). 安装 NPM
 ```shell
-./configure
-make
-make install 
+sudo apt install npm
+sudo npm install n -g 
+```
+安装长期支持版
+```shell
+sudo n lts 
 ```
 2). 安装gitbook
 ```shell
