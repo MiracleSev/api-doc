@@ -5,6 +5,6 @@
     "language": "zh-tw",
     "gitbook": "3.2.3",
     "structure": {
-        "readme": "README.md"
+        "readme": "introduction.md"
     }
 }
