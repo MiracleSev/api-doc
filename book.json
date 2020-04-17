@@ -1,0 +1,10 @@
+{
+    "title": "接口文档",
+    "author": "Miraclesev",
+    "description": "接口文档",
+    "language": "zh-tw",
+    "gitbook": "3.2.3",
+    "structure": {
+        "readme": "README.md"
+    }
+}
